@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <!-- YOUR_USERNAME を自分の GitHub ユーザー名に置き換えてください -->
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=zuka-yuma&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuka-yuma&layout=compact&hide_border=true)
 <!--
 **zuka-yuma/zuka-yuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
